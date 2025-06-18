@@ -17,3 +17,9 @@ This Python script simulates satellite orbital dynamics using RK1 and RK3 integr
 ## Run
 ```bash
 python satellite_simulation.py
+
+## Output
+
+Below is a sample 3D visualization of the satellite's trajectory (RK1 and RK3):
+
+![Satellite Trajectory Plot](download.png)
